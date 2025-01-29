@@ -1,6 +1,12 @@
 # projeto_amigo_secreto
 
-## Funcionalidades:
+## Tecnologias:
+
+- HTML
+- CSS
+- JAVASCRIPT
+
+### Funcionalidades:
 
 - Adicionar nomes: Os usuários escreverão o nome de um amigo em um campo de texto e o adicionarão a uma lista visível ao clicar em "Adicionar".
 
